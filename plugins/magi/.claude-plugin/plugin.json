@@ -1,0 +1,10 @@
+{
+  "name": "magi",
+  "version": "0.1.0",
+  "description": "Magdiel's personal collection of skills and agents used across projects",
+  "author": {
+    "name": "MagdielCAS"
+  },
+  "license": "MIT",
+  "keywords": ["personal", "skills", "agents"]
+}
